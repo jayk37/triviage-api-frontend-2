@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to left, rgb(245, 147, 55) 20%,rgb(223, 101, 101) 80%);
+    background-image: url("./triviabg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
