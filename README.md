@@ -1,4 +1,4 @@
-# Frontend Mini-Projects #1
+# Frontend Mini-Projects #2
 
 ```
 Stack Used: React.js, HTML, CSS, JavaScript
